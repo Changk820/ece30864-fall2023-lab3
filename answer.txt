@@ -1,0 +1,4 @@
+1a. I think it depends, but in a waterfall methadology, which isn't agile, the equivalent to
+a product owner would be the project manager, who is responsible for planning, executing, and closing projects.
+Similarly, the product owner in agile methodlogy sets direction for the team, handles release management and stakeholder management.
+The only main difference is that the project manager is more structured and sequential in their approach to projects.
