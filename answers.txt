@@ -23,3 +23,11 @@ Sprint retrospective meeting:
     -Discuss work completed and move incomplete work to backlog
     -Discuss any shortcomings and possible improvements to team,
      as well as acknowledging any team members who went above and beyond
+
+1d.
+Epic: The overall body of work that multiple stories come together to form
+Story: A implementable project requirement expressed in a few short sentences as a story from
+       the perspective of the end user. Ex: As a __user_audience__, I want to be able to ___task______
+Bug: Any error that causes unexpected behavior of the program
+Task: The specific deliverables that needs to be completed to achive a story
+
