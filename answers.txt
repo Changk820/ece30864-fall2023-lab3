@@ -2,3 +2,10 @@
 a product owner would be the project manager, who is responsible for planning, executing, and closing projects.
 Similarly, the product owner in agile methodlogy sets direction for the team, handles release management and stakeholder management.
 The only main difference is that the project manager is more structured and sequential in their approach to projects.
+
+1b. The main role of the scrum master is to lead the team in everyday development of the project, and making sure everything flows smoothly.
+The scrum master's responsibilties may include holding daily standup meetings, helping to address any obstacles, and help product owner with
+creating sprint backlogs
+By comparison, the role of the product owner would be more visionary and business oriented. Their main responsibilities incldue working with
+the scrum master and business customers/partners to create product backlogs and ensure the product is following the intended vision.
+In summary, the scrum master is more everyday technical oriented, while the product owner is more responsible for the overall vision in the long run.
