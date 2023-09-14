@@ -9,3 +9,17 @@ creating sprint backlogs
 By comparison, the role of the product owner would be more visionary and business oriented. Their main responsibilities incldue working with
 the scrum master and business customers/partners to create product backlogs and ensure the product is following the intended vision.
 In summary, the scrum master is more everyday technical oriented, while the product owner is more responsible for the overall vision in the long run.
+
+1c.
+Sprint planning meeting:
+    -Determine what to be completed in upcoming sprint
+        ie: -move stories from back log to current sprint
+            -assign stories to team members
+    -Start the sprint
+Daily scrum/standup meeting:
+    -Discuss daily tasks to be completed and tasks completed so far
+    -Report any obstacles and potentially discuss fixes to overcome said obstacles
+Sprint retrospective meeting:
+    -Discuss work completed and move incomplete work to backlog
+    -Discuss any shortcomings and possible improvements to team,
+     as well as acknowledging any team members who went above and beyond
